@@ -1,0 +1,1 @@
+pam\_chroot is a Linux-PAM module that allows a user to be chrooted in auth, account, or session. The pam\_chroot configuration employs a flexible syntax which allows for a user to be selectively chrooted based upon username or group membership.
